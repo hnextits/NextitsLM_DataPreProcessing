@@ -42,7 +42,7 @@ English | [한국어](./docs/README_ko.md) | [简体中文](./docs/README_zh.md)
 
 ## 📣 Recent Updates
 
-### 🔥 2025.01: Multimodal Data Processing Pipeline Release
+### 2026.01: Multimodal Data Processing Pipeline Release
 
 - **Integrated Pipeline System**:
   - Text processing pipeline (`pipeline_text.py`)
