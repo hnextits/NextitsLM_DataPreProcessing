@@ -287,7 +287,7 @@ pytest tests/integration/
 
 시스템을 직접 사용해보세요: [https://quantuss.hnextits.com/](https://quantuss.hnextits.com/)
 
-## 👥 개발자
+## 👥 기여자
 
 이 프로젝트는 다음 팀원들이 개발했습니다:
 
