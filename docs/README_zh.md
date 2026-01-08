@@ -223,6 +223,31 @@ pytest tests/integration/
 - **[UVDoc](https://github.com/tanguymagne/UVDoc)**: 文档矫正功能
 - **[vLLM](https://github.com/vllm-project/vllm)**: 高性能推理引擎
 
+## 🎓 引用
+
+如果您在研究中使用本项目，请引用以下论文：
+
+### UVDoc
+```bibtex
+@inproceedings{UVDoc,
+  title={{UVDoc}: Neural Grid-based Document Unwarping},
+  author={Floor Verhoeven and Tanguy Magne and Olga Sorkine-Hornung},
+  booktitle={SIGGRAPH ASIA, Technical Papers},
+  year={2023},
+  url={https://doi.org/10.1145/3610548.3618174}
+}
+```
+
+### vLLM
+```bibtex
+@inproceedings{kwon2023efficient,
+  title={Efficient Memory Management for Large Language Model Serving with PagedAttention},
+  author={Woosuk Kwon and Zhuohan Li and Siyuan Zhuang and Ying Sheng and Lianmin Zheng and Cody Hao Yu and Joseph E. Gonzalez and Hao Zhang and Ion Stoica},
+  booktitle={Proceedings of the ACM SIGOPS 29th Symposium on Operating Systems Principles},
+  year={2023}
+}
+```
+
 ## 📧 联系方式
 
 如果您对项目有任何问题或建议，请提交 issue。

@@ -223,6 +223,31 @@ This project was made possible with the help of the following open-source projec
 - **[UVDoc](https://github.com/tanguymagne/UVDoc)**: Document unwarping functionality
 - **[vLLM](https://github.com/vllm-project/vllm)**: High-performance inference engine
 
+## 🎓 Citation
+
+If you use this project in your research, please cite the following papers:
+
+### UVDoc
+```bibtex
+@inproceedings{UVDoc,
+  title={{UVDoc}: Neural Grid-based Document Unwarping},
+  author={Floor Verhoeven and Tanguy Magne and Olga Sorkine-Hornung},
+  booktitle={SIGGRAPH ASIA, Technical Papers},
+  year={2023},
+  url={https://doi.org/10.1145/3610548.3618174}
+}
+```
+
+### vLLM
+```bibtex
+@inproceedings{kwon2023efficient,
+  title={Efficient Memory Management for Large Language Model Serving with PagedAttention},
+  author={Woosuk Kwon and Zhuohan Li and Siyuan Zhuang and Ying Sheng and Lianmin Zheng and Cody Hao Yu and Joseph E. Gonzalez and Hao Zhang and Ion Stoica},
+  booktitle={Proceedings of the ACM SIGOPS 29th Symposium on Operating Systems Principles},
+  year={2023}
+}
+```
+
 ## 📧 Contact
 
 If you have any questions or suggestions about the project, please open an issue.
