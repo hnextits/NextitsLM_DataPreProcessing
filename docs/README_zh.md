@@ -182,7 +182,7 @@ result = pipeline.process(input_data)
 
 ### 要求
 
-- Python 3.8 或更高版本
+- Python 3.11 或更高版本
 - CUDA 11.0 或更高版本（用于 GPU）
 - 充足的内存（建议至少 16GB）
 

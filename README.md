@@ -182,7 +182,7 @@ An efficient inference engine for large language models.
 
 ### Requirements
 
-- Python 3.8 or higher
+- Python 3.11 or higher
 - CUDA 11.0 or higher (for GPU usage)
 - Sufficient memory (minimum 16GB recommended)
 
