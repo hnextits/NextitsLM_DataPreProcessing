@@ -306,5 +306,5 @@ Contributions are welcome! Please send a Pull Request or open an issue.
 ---
 
 <div align="center">
-Made with ❤️ by Nextits Team
+Made with 🩸💦😭 by Nextits Team
 </div>

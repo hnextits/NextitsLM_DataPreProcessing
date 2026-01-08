@@ -306,5 +306,5 @@ pytest tests/integration/
 ---
 
 <div align="center">
-Made with ❤️ by Nextits Team
+Made with 🩸💦😭 by Nextits Team
 </div>
