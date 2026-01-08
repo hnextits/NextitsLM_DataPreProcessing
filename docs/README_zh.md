@@ -248,6 +248,18 @@ pytest tests/integration/
 }
 ```
 
+## 🌐 演示网站
+
+在线试用我们的系统：[https://quantuss.hnextits.com/](https://quantuss.hnextits.com/)
+
+## 👥 开发者
+
+本项目由以下团队成员开发：
+
+- **Lim** - [junseung_lim@hnextits.com](mailto:junseung_lim@hnextits.com)
+- **Jeong** - [jeongnext@hnextits.com](mailto:jeongnext@hnextits.com)
+- **Ryu** - [fbgjungits@hnextits.com](mailto:fbgjungits@hnextits.com)
+
 ## 📧 联系方式
 
 如果您对项目有任何问题或建议，请提交 issue。

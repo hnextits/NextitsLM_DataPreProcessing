@@ -248,6 +248,18 @@ pytest tests/integration/
 }
 ```
 
+## 🌐 데모 사이트
+
+시스템을 직접 사용해보세요: [https://quantuss.hnextits.com/](https://quantuss.hnextits.com/)
+
+## 👥 개발자
+
+이 프로젝트는 다음 팀원들이 개발했습니다:
+
+- **Lim** - [junseung_lim@hnextits.com](mailto:junseung_lim@hnextits.com)
+- **Jeong** - [jeongnext@hnextits.com](mailto:jeongnext@hnextits.com)
+- **Ryu** - [fbgjungits@hnextits.com](mailto:fbgjungits@hnextits.com)
+
 ## 📧 문의
 
 프로젝트에 대한 문의사항이나 제안사항이 있으시면 이슈를 등록해주세요.

@@ -248,6 +248,18 @@ If you use this project in your research, please cite the following papers:
 }
 ```
 
+## 🌐 Demo Site
+
+Try out our system at: [https://quantuss.hnextits.com/](https://quantuss.hnextits.com/)
+
+## 👥 Contributors
+
+This project was developed by the following team members:
+
+- **Lim** - [junseung_lim@hnextits.com](mailto:junseung_lim@hnextits.com)
+- **Jeong** - [jeongnext@hnextits.com](mailto:jeongnext@hnextits.com)
+- **Ryu** - [fbgjungits@hnextits.com](mailto:fbgjungits@hnextits.com)
+
 ## 📧 Contact
 
 If you have any questions or suggestions about the project, please open an issue.
