@@ -6,7 +6,7 @@
 [English](../README.md) | [한국어](./README_ko.md) | 简体中文
 
 <!-- icon -->
-![python](https://img.shields.io/badge/python-3.8~3.12-aff.svg)
+![python](https://img.shields.io/badge/python-3.11~3.12-aff.svg)
 ![os](https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-pink.svg)
 [![License](https://img.shields.io/badge/license-Apache_2.0-green)](../LICENSE)
 
@@ -17,7 +17,7 @@
 </div>
 
 # Nextits Data Processing
-[![Framework](https://img.shields.io/badge/Python-3.8+-blue)](#)
+[![Framework](https://img.shields.io/badge/Python-3.11+-blue)](#)
 [![Pipeline](https://img.shields.io/badge/Pipeline-Text%20%7C%20Image%20%7C%20Audio-orange)](#)
 [![Document](https://img.shields.io/badge/Document-PDF%20Processing-green)](#)
 
