@@ -220,12 +220,47 @@ pytest tests/integration/
 
 本项目得益于以下开源项目的帮助：
 
+- **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)**: 连接图像/PDF与LLM的强大OCR工具包，支持100多种语言
+- **[OCRFlux](https://github.com/chatdoc-com/OCRFlux)**: 用于复杂布局处理的轻量级多模态PDF转Markdown工具包
 - **[UVDoc](https://github.com/tanguymagne/UVDoc)**: 文档矫正功能
 - **[vLLM](https://github.com/vllm-project/vllm)**: 高性能推理引擎
 
 ## 🎓 引用
 
 如果您在研究中使用本项目，请引用以下论文：
+
+### PaddleOCR
+```bibtex
+@misc{cui2025paddleocr30technicalreport,
+  title={PaddleOCR 3.0 Technical Report},
+  author={Cheng Cui and Ting Sun and Manhui Lin and Tingquan Gao and Yubo Zhang and Jiaxuan Liu and Xueqing Wang and Zelun Zhang and Changda Zhou and Hongen Liu and Yue Zhang and Wenyu Lv and Kui Huang and Yichao Zhang and Jing Zhang and Jun Zhang and Yi Liu and Dianhai Yu and Yanjun Ma},
+  year={2025},
+  eprint={2507.05595},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2507.05595}
+}
+
+@misc{cui2025paddleocrvlboostingmultilingualdocument,
+  title={PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model},
+  author={Cheng Cui and Ting Sun and Suyin Liang and Tingquan Gao and Zelun Zhang and Jiaxuan Liu and Xueqing Wang and Changda Zhou and Hongen Liu and Manhui Lin and Yue Zhang and Yubo Zhang and Handong Zheng and Jing Zhang and Jun Zhang and Yi Liu and Dianhai Yu and Yanjun Ma},
+  year={2025},
+  eprint={2510.14528},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2510.14528}
+}
+```
+
+### OCRFlux
+```bibtex
+@misc{ocrflux2025,
+  title={OCRFlux: Lightweight Multimodal Toolkit for PDF-to-Markdown Conversion},
+  author={ChatDOC Team},
+  year={2025},
+  url={https://github.com/chatdoc-com/OCRFlux}
+}
+```
 
 ### UVDoc
 ```bibtex

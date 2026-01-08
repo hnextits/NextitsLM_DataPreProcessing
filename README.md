@@ -220,12 +220,47 @@ This project is distributed under the Apache 2.0 License. See the [LICENSE](./LI
 
 This project was made possible with the help of the following open-source projects:
 
+- **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)**: Powerful OCR toolkit that bridges the gap between images/PDFs and LLMs, supporting 100+ languages
+- **[OCRFlux](https://github.com/chatdoc-com/OCRFlux)**: Lightweight multimodal toolkit for advanced PDF-to-Markdown conversion with complex layout handling
 - **[UVDoc](https://github.com/tanguymagne/UVDoc)**: Document unwarping functionality
 - **[vLLM](https://github.com/vllm-project/vllm)**: High-performance inference engine
 
 ## 🎓 Citation
 
 If you use this project in your research, please cite the following papers:
+
+### PaddleOCR
+```bibtex
+@misc{cui2025paddleocr30technicalreport,
+  title={PaddleOCR 3.0 Technical Report},
+  author={Cheng Cui and Ting Sun and Manhui Lin and Tingquan Gao and Yubo Zhang and Jiaxuan Liu and Xueqing Wang and Zelun Zhang and Changda Zhou and Hongen Liu and Yue Zhang and Wenyu Lv and Kui Huang and Yichao Zhang and Jing Zhang and Jun Zhang and Yi Liu and Dianhai Yu and Yanjun Ma},
+  year={2025},
+  eprint={2507.05595},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2507.05595}
+}
+
+@misc{cui2025paddleocrvlboostingmultilingualdocument,
+  title={PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model},
+  author={Cheng Cui and Ting Sun and Suyin Liang and Tingquan Gao and Zelun Zhang and Jiaxuan Liu and Xueqing Wang and Changda Zhou and Hongen Liu and Manhui Lin and Yue Zhang and Yubo Zhang and Handong Zheng and Jing Zhang and Jun Zhang and Yi Liu and Dianhai Yu and Yanjun Ma},
+  year={2025},
+  eprint={2510.14528},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2510.14528}
+}
+```
+
+### OCRFlux
+```bibtex
+@misc{ocrflux2025,
+  title={OCRFlux: Lightweight Multimodal Toolkit for PDF-to-Markdown Conversion},
+  author={ChatDOC Team},
+  year={2025},
+  url={https://github.com/chatdoc-com/OCRFlux}
+}
+```
 
 ### UVDoc
 ```bibtex
