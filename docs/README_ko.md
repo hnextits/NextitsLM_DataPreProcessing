@@ -1,9 +1,6 @@
 <div align="center">
   <p>
-      <img width="15%" src="/hnextits-logo-NGG.png" alt="Nextits Data Processing Banner">
-  </p>
-  <p>
-      <img width="100%" src="/github_quantus_space_bn.png" alt="Nextits Data Processing Banner">
+      <img width="1792" height="310" alt="Data PreProcessing banner Nextits" src="https://github.com/user-attachments/assets/9b3a903e-0eec-44f8-ab44-3c2f93c47beb" />
   </p>
 
 [English](../README.md) | 한국어 | [简体中文](./README_zh.md)
