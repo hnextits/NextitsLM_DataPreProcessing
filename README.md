@@ -5,7 +5,7 @@
   </p>
   <br>
   <p>
-      <img width="100%" src="/github_quantus_space_bn.png" alt="Nextits Data Processing Banner">
+      <img width="1792" height="311" alt="Nextits Data PreProcessing" src="https://github.com/user-attachments/assets/7e86af66-7c81-4b69-935d-0f0151a3e039" />
   </p>
 
 English | [한국어](./docs/README_ko.md) | [简体中文](./docs/README_zh.md)
