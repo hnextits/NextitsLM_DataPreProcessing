@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-      <img width="100%" src="" alt="Nextits Data Processing Banner">
+      <img width="100%" src="/github_quantus_space_bn.png" alt="Nextits Data Processing Banner">
   </p>
 
 English | [한국어](./docs/README_ko.md) | [简体中文](./docs/README_zh.md)
