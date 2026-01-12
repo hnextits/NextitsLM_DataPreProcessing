@@ -1,10 +1,6 @@
 
 <div align="center">
   <p>
-      <img width="25%" src="/hnextits-logo-NGG.png" alt="Nextits Data Processing Banner">
-  </p>
-  <br>
-  <p>
       <img width="1792" height="311" alt="Nextits Data PreProcessing" src="https://github.com/user-attachments/assets/7e86af66-7c81-4b69-935d-0f0151a3e039" />
   </p>
 
